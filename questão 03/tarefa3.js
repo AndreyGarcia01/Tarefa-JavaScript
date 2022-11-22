@@ -6,3 +6,5 @@ function soma(largura,altura){
     }
 }
   console.log(soma(10,40));
+
+// return width > height;
